@@ -1,3 +1,0 @@
-server:
- name: project-test
- message: 테스트 서버입니다.
