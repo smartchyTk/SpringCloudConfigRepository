@@ -1,3 +1,4 @@
 server:
+ profile: real
  name: project-real
  message:REAL 서버입니다.
